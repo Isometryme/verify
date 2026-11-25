@@ -1,0 +1,41 @@
+{
+  "chainId": 999,
+  "contracts": {
+    "botHub": "0x0DC615730abb364f6b6985e814DA7E14Bc0239b2",
+    "copyMarket": "0x74AC8b9cef515dd6068D6c358263d91cCEdd558B",
+    "vaultFactory": "0x00c8A079979CbAc837755d0076e45Ae68bAA4434",
+    "agentVaultImplementation": "0x9e9bC68396099fdd768a754709CC1fd55A282825",
+    "protocolBounds": "0x2Db348548d3A204c5F6cdb03d7de9Bc04bF72715",
+    "hostedOperator": "0x4EEa061be9c4401aB4FF56ECa43Cd6Ea6eb623D3",
+    "feeCollector": "0x16a1242B0B383f3658FEfB85470D7B3757aB5f50",
+    "precompileReader": "0xDc27688Ca76436081E24AC25D9D8C684dE127D99"
+  },
+  "external": {
+    "usdc": "0xb88339CB7199b77E23DB6E890353E22632Ba630f",
+    "coreDepositWallet": "0x6B9E773128f453f5c2C60935Ee2DE2CBc5390A24",
+    "coreWriter": "0x3333333333333333333333333333333333333333"
+  },
+  "deployedAt": 51770440,
+  "assets": {
+    "BTC": 0,
+    "ETH": 1,
+    "SOL": 5,
+    "HYPE": 159,
+    "PAXG": 187,
+    "XRP": 25,
+    "BNB": 7,
+    "DOGE": 12,
+    "AVAX": 6,
+    "LINK": 18,
+    "SUI": 14,
+    "NEAR": 74,
+    "ZEC": 214,
+    "AAVE": 28,
+    "LTC": 10,
+    "ADA": 65,
+    "UNI": 39,
+    "ENA": 122,
+    "TAO": 116,
+    "ARB": 11
+  }
+}
